@@ -1,3 +1,4 @@
+## ADX Calculator
 Here's the code from my video LINK(insert link) to calculate the ADX value.
 
 The dataset used is from https://school.stockcharts.com/doku.php?id=technical_indicators:average_directional_index_adx.
